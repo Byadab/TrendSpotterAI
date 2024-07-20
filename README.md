@@ -35,7 +35,7 @@ Sample Data
 <img width="1157" alt="Screenshot 2024-07-20 at 8 26 58 PM" src="https://github.com/user-attachments/assets/60162934-995f-4bb8-b59f-722007e0cd56">
 
 ### System Design
-<img width="1280" alt="Screenshot 2024-07-20 at 11 12 58 PM" src="https://github.com/user-attachments/assets/089a3f91-3b17-4b79-ba2e-2218c3ab9df5">
+<img width="760" alt="Screenshot 2024-07-20 at 11 12 58 PM" src="https://github.com/user-attachments/assets/089a3f91-3b17-4b79-ba2e-2218c3ab9df5">
 
 ## Setup
 ### Installation
